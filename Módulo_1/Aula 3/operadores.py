@@ -14,6 +14,7 @@
 #Resto da divisão: %
 #Exponenciação: **
 
+
 #Operadores de Comparação:
 
 #Igualdade: ==
@@ -22,6 +23,7 @@
 #Menor que: <
 #Maior ou igual a: >=
 #Menor ou igual a: <=
+#A variavel recebe o resto da outra variavel: %=
 
 
 # Exemplo de operadores lógicos
@@ -43,6 +45,7 @@ if not x < y:
 a = 10
 b = 3
 
+
 print(a + b) #SOMA
 print(a - b) #SUBTRACAO
 print(a * b) #MULTIPLICACAO
@@ -50,6 +53,7 @@ print(a / b) #DIVISAO
 print(a // b) #DIVISAO INTEIRA
 print(a % b)  #RESTO DA DIVISAO
 print(a ** b) #EXPONENCIAÇÃO
+
 
 
 # Exemplo de operadores de comparação
@@ -74,3 +78,7 @@ if x >= y:
 
 if x <= y:
     print("x é menor ou igual a y")
+
+# if :
+#     print("")
+    
