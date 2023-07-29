@@ -1,0 +1,85 @@
+# Confiável: 
+A POO torna o código mais confiável, 
+pois o encapsulamento protege os dados dentro das classes, 
+permitindo que apenas os métodos adequados modifiquem esses dados. 
+Isso ajuda a evitar que outras partes do código causem erros 
+ou corrompam os dados acidentalmente.
+
+Exemplo lúdico: Imagine que você está criando 
+um jogo de tabuleiro, onde os jogadores têm suas
+peças e movem essas peças pelo tabuleiro. 
+Usando POO, você pode encapsular os atributos 
+de cada peça (como sua posição no tabuleiro) e 
+criar métodos específicos para movê-las. 
+Isso evita que outras partes do jogo modifiquem 
+diretamente a posição das peças, garantindo 
+que elas se movam de acordo com as regras 
+do jogo e permaneçam confiáveis.
+
+#Oportuno
+A POO permite que você divida seu código em módulos 
+independentes, o que torna o desenvolvimento mais ágil e 
+eficiente. Quando você precisa fazer alterações ou adicionar 
+novos recursos, pode se concentrar apenas na parte relevante do código.
+
+Exemplo lúdico: Imagine que você está criando um aplicativo de 
+receitas culinárias. Com a POO, você pode ter um módulo 
+específico para lidar com a "Criação de Receitas" e 
+outro módulo para a "Exibição das Receitas". 
+Quando você precisa adicionar um novo recurso, 
+como uma função para salvar receitas favoritas, 
+pode se concentrar apenas no módulo responsável 
+por isso, sem precisar mexer em todo 
+o código do aplicativo.
+
+#Ajustável
+A POO torna o código mais ajustável, 
+pois os objetos podem ser modificados 
+independentemente uns dos outros. 
+Isso permite que você faça alterações 
+em uma parte do programa sem afetar o restante.
+
+Exemplo lúdico: Imagine que você está desenvolvendo 
+um jogo de plataforma. Com a POO, cada personagem 
+no jogo (como o herói e os inimigos) é 
+representado por uma classe separada. 
+Se você precisar ajustar o comportamento de 
+um inimigo específico, pode modificar apenas 
+a classe desse inimigo, sem precisar mexer 
+nas outras partes do jogo.
+
+#Extensível
+A POO facilita a extensão do código, permitindo 
+que você adicione novas funcionalidades 
+e características sem interferir no código já existente.
+
+Exemplo lúdico: No mesmo jogo de plataforma, você pode querer 
+adicionar novos power-ups para o herói. Com a POO, você pode 
+criar uma nova classe para cada power-up e adicioná-la ao jogo 
+sem alterar o código dos personagens, dos inimigos ou da 
+lógica do jogo. Isso torna o jogo mais extensível e permite 
+que você adicione quantos power-ups desejar sem complicar 
+o código original.
+
+#Reutilizável
+A POO promove a reutilização de código, permitindo que você use 
+classes e objetos em diferentes partes do programa ou em projetos diferentes.
+
+Exemplo lúdico: Suponha que você desenvolveu um jogo simples de quebra-cabeça 
+onde os blocos se movem para formar uma imagem. Com a POO, você pode criar 
+uma classe para representar cada bloco, com seus atributos e métodos específicos. 
+Se você quiser fazer um novo jogo usando blocos semelhantes, pode reutilizar a classe 
+já criada para os blocos, economizando tempo e esforço no desenvolvimento.
+
+
+# Natural:
+A POO reflete a forma como pensamos e interagimos com o mundo real. 
+Os objetos e classes na POO são modelados com base em entidades 
+e conceitos reais, tornando o código mais fácil de entender e manter.
+
+Exemplo lúdico: Na vida real, podemos pensar em um "Carro" como 
+uma entidade que tem características como cor, modelo e velocidade, 
+e pode realizar ações como acelerar e frear. Na POO, podemos criar 
+uma classe "Carro" com atributos e métodos que representem essas 
+características e ações, o que torna o código mais natural e 
+intuitivo de trabalhar.

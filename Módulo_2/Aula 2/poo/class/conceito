@@ -1,0 +1,27 @@
+Classe:
+
+Uma classe é como um projeto que define 
+como os carros devem ser construídos. 
+Ela contém informações sobre quais características os 
+carros terão e quais ações eles poderão executar.
+
+Objeto:
+
+Um objeto é uma instância criada a partir da classe, ou 
+seja, é um carro construído usando o molde (classe) 
+que você definiu. Cada objeto criado terá suas próprias 
+características (marca, modelo, cor) e poderá realizar 
+as ações definidas na classe (acelerar, frear).
+
+Atributo:
+Um atributo é uma característica ou propriedade do objeto, ou seja, 
+são as informações que descrevem o objeto. No exemplo dos carros, as 
+características como "marca", "modelo", "cor" e "velocidade" são atributos. 
+Esses atributos são definidos na classe e podem ser diferentes para cada objeto 
+criado a partir dela.
+
+Método:
+Um método é uma função definida dentro da classe que define o 
+que um objeto pode fazer. Os métodos são ações que os objetos podem 
+executar. No exemplo dos carros, os métodos "acelerar", "frear" e 
+"status" são métodos da classe "Carro".
