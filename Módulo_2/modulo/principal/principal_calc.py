@@ -8,7 +8,7 @@
 
 # from ..modulos import calculadora
 import sys
-sys.path.append('Módulo_2/Aula 2/modulo/modulos')
+sys.path.append('Módulo_2/modulo/modulos')
 
 import calculadora
 
